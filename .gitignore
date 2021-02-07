@@ -14,6 +14,7 @@
 elegantnote-en.pdf
 elegantnote-cn.pdf
 clean.bat
+engnotes*.pdf
 
 ## Intermediate documents:
 *.dvi

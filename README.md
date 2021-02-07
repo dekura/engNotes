@@ -1,6 +1,11 @@
 <!-- Author: Dongsheng Deng -->
 <!-- Email: ddswhu@outlook.com -->
 
+# My english notes.
+
+The template come from the `ElegantNote`
+
+
 # ElegantNote
 
 [Homepage](https://elegantlatex.org/) | [Github](https://github.com/ElegantLaTeX/ElegantNote) | [CTAN](https://ctan.org/pkg/elegantnote) | [Download](https://github.com/ElegantLaTeX/ElegantNote/releases) | [Wiki](https://github.com/ElegantLaTeX/ElegantNote/wiki) | [Weibo](https://weibo.com/elegantlatex)
