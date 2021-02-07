@@ -1,13 +1,13 @@
 doc=engnotes
 
 fast:
-	xelatex $(doc)
+	pdflatex $(doc)
 
 all:
-	xelatex $(doc)
+	pdflatex $(doc)
 	bibtex $(doc)
-	xelatex $(doc)
-	xelatex $(doc)
+	pdflatex $(doc)
+	pdflatex $(doc)
 
 clean:
 	rm -rf $(DOCUMENT).ps *.aux *.toc \
